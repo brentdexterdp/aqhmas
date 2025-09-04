@@ -1,0 +1,6 @@
+../Core/Src/TIM2.c:10:6:Tim2_Init	4	static
+../Core/Src/TIM2.c:27:6:TIM2_IRQHandler	4	static
+../Core/Src/TIM2.c:36:6:delay_us	16	static
+../Core/Src/TIM2.c:46:6:delay_ms	24	static
+../Core/Src/TIM2.c:54:6:delay_s	24	static
+../Core/Src/TIM2.c:62:6:delay_ms_pseudo	24	static

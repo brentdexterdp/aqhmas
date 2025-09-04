@@ -1,0 +1,2 @@
+../Core/Src/ESP8266.c:6:6:ESP8266_Init	9
+../Core/Src/ESP8266.c:44:6:ESP8266_Send_Data	9

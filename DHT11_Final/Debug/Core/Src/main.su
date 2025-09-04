@@ -1,0 +1,6 @@
+../Core/Src/main.c:46:5:main	16	static
+../Core/Src/main.c:105:6:TIM4_Init	4	static
+../Core/Src/main.c:117:6:sevseg_init	8	static
+../Core/Src/main.c:194:6:sevseg_display	40	static
+../Core/Src/main.c:353:6:alert	16	static
+../Core/Src/main.c:376:6:TIM4_IRQHandler	8	static

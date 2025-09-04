@@ -1,0 +1,2 @@
+../Core/Src/ESP8266.c:6:6:ESP8266_Init	120	static
+../Core/Src/ESP8266.c:48:6:ESP8266_Send_Data	640	static

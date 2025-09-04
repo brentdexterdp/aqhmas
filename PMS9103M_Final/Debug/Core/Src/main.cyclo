@@ -1,0 +1,9 @@
+../Core/Src/main.c:30:6:TIM4_Init	1
+../Core/Src/main.c:42:6:sevseg_init	1
+../Core/Src/main.c:119:6:sevseg_display	18
+../Core/Src/main.c:278:6:alert	5
+../Core/Src/main.c:301:6:TIM4_IRQHandler	1
+../Core/Src/main.c:306:6:Usart1_Init	1
+../Core/Src/main.c:345:6:USART1_IRQHandler	3
+../Core/Src/main.c:358:6:readPM25	8
+../Core/Src/main.c:385:5:main	2

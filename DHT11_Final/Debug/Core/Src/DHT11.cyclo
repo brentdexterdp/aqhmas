@@ -1,0 +1,5 @@
+../Core/Src/DHT11.c:11:6:DHT11_Start	1
+../Core/Src/DHT11.c:24:6:DHT11_Response	3
+../Core/Src/DHT11.c:33:5:DHT11_Read_Eight_Bit	5
+../Core/Src/DHT11.c:56:6:DHT11_Read	1
+../Core/Src/DHT11.c:66:5:DHT11_HI_calc	1

@@ -1,0 +1,7 @@
+../Core/Src/Usart6.c:6:6:Usart6_Init	1
+../Core/Src/Usart6.c:49:6:USART6_IRQHandler	3
+../Core/Src/Usart6.c:64:6:USART6_Read	2
+../Core/Src/Usart6.c:71:6:USART6_Write	3
+../Core/Src/Usart6.c:79:6:USART6_Text_Write	2
+../Core/Src/Usart6.c:91:6:USART6_Clear_Buffer	2
+../Core/Src/Usart6.c:99:5:USART6_Wait_For	10

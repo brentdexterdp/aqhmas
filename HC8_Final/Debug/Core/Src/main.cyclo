@@ -1,0 +1,10 @@
+../Core/Src/main.c:69:5:main	9
+../Core/Src/main.c:214:6:GPIO_Init	1
+../Core/Src/main.c:234:6:IC_Init	1
+../Core/Src/main.c:304:6:TIM1_CC_IRQHandler	3
+../Core/Src/main.c:321:6:TIM1_UP_TIM10_IRQHandler	2
+../Core/Src/main.c:330:6:TIM4_Init	1
+../Core/Src/main.c:342:6:sevseg_init	1
+../Core/Src/main.c:419:6:sevseg_display	18
+../Core/Src/main.c:578:6:alert	5
+../Core/Src/main.c:601:6:TIM4_IRQHandler	1

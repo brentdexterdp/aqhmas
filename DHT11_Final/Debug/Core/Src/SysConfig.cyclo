@@ -1,0 +1,2 @@
+../Core/Src/SysConfig.c:10:6:sys_config	1
+../Core/Src/SysConfig.c:27:5:GPIOB_IDR_Pin	1

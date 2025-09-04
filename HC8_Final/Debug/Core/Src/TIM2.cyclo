@@ -1,0 +1,6 @@
+../Core/Src/TIM2.c:10:6:Tim2_Init	1
+../Core/Src/TIM2.c:27:6:TIM2_IRQHandler	1
+../Core/Src/TIM2.c:36:6:delay_us	2
+../Core/Src/TIM2.c:46:6:delay_ms	2
+../Core/Src/TIM2.c:54:6:delay_s	2
+../Core/Src/TIM2.c:62:6:delay_ms_pseudo	3
