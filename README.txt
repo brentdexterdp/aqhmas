@@ -5,8 +5,8 @@ The data will be processed using MATLAB and will be presented graphically in the
 
 This project is divided into three modules: 
 1. DHT11_Final for the heat index
-2. HC8 for CO2
-3. PMS9103M for PM2.5.
+2. HC8_Final for CO2
+3. PMS9103M_Final for PM2.5.
 
 Collaborators:
 Hans Cecilio Bosshard
